@@ -77,3 +77,10 @@ body {
 .gamblers tr:hover td {
   background-color: #f1f9ff;
 }
+
+img {
+  display:block;
+  margin:auto;
+  
+}
+
