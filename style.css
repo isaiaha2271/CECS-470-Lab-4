@@ -1,0 +1,24 @@
+body {
+  font-family: Arial;
+}
+
+/* Main table */
+.gamblers {
+  width: 700px;
+  margin: 40px auto; /* center table */
+  border-collapse: collapse;
+  border: 6px solid gray;
+}
+
+/* All cells */
+.gamblers th,
+.gamblers td {
+  border: 3px solid gray;
+  padding: 25px;
+  text-align: center;
+}
+
+/* Title row */
+.title {
+  font-size: 30px;
+}
